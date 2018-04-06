@@ -1,0 +1,17 @@
+{
+  "name": "nightlife-app",
+  "version": "1.0.0",
+  "description": "An app that allows users to see where poeple are going on a given night",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "Express",
+    "Node"
+  ],
+  "author": "Ian Richard",
+  "license": "MIT"
+}
